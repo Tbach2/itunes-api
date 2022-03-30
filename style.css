@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+img {
+    max-width: 11rem;
+    max-height: 11rem;
+    padding-top: 20px;
+}
+label {
+    color: white;
+}
+.card {
+    border: 5px solid black;
+    border-radius: 0;
+}
+
